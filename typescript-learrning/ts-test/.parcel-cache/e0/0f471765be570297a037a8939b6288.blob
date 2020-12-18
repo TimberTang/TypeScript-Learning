@@ -1,0 +1,5 @@
+const teacher = 'timber';
+console.log(teacher);
+$(function () {
+  alert(timber.com);
+});
